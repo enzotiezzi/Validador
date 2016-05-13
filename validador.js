@@ -2,7 +2,7 @@
 
 (function ($) {
     
-    // Campos com name e método a ser executado
+    // Campos com id e método a ser executado
     var campos = [];
     
     $.fn.configurar = function (opcoes) {
